@@ -1,0 +1,6 @@
+module Pods_RNAssignment {
+  umbrella header "Pods-RNAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

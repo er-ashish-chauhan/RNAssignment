@@ -1,0 +1,6 @@
+module Pods_RNAssignment_RNAssignmentTests {
+  umbrella header "Pods-RNAssignment-RNAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
